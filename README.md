@@ -133,4 +133,4 @@ currently endorses, not as a synonym for "the newest code that exists."
 Built this while working on
 [`package-registry-scraper`](https://apify.com/ponderable_hydrometer/package-registry-scraper)
 on Apify (keyless npm/PyPI/crates.io lookups as a dataset). Longer write-up with
-the backstory: [dev.to article](https://dev.to/ronin13/npms-latest-is-a-label-a-maintainer-sets-pypis-and-cratesios-is-just-math).
+the backstory: [dev.to article](https://dev.to/ronin13/npms-latest-is-a-label-a-maintainer-sets-pypis-and-cratesios-is-just-math-20bp).
